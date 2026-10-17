@@ -22,4 +22,4 @@ Trang web được xây dựng để cung cấp một không gian làm việc ch
 ## 4. Các liên kết (Links)
 * **Link Figma:** https://www.figma.com/proto/Cj1buthUhvqMWrCSWhMjR6/Untitled?node-id=4-23203&p=f&t=c3zbnQmibP7hv98a-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 * **Link GitHub:** https://github.com/DrSenkoFox/CSE122-GK-SV-NguyenChiTam-Accessmanagement
-* **Link Video:** https://youtu.be/M7U3vYC0GaI
+* **Link Video:** https://youtu.be/3CYu-Qz-lho
